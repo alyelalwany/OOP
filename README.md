@@ -33,6 +33,9 @@ bzsr@inf.elte.hu
 Shuaa Bhatti  : 
 e63oyp@inf.elte.hu
 
+Hussain Rizwan : 
+ullbqg@inf.elte.hu
+
 Talal Quleh  : 
 tbis1e@inf.elte.hu 
 
